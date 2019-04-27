@@ -38,9 +38,6 @@ router.post("/api/friends", function (req, res) {
  let bestFriend = friendData[bestMatch];
  res.json(bestFriend);
 
- console.log(req.body);
- friendData.push(req.body);
-
 });
 
 module.exports = router;
