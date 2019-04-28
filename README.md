@@ -13,5 +13,10 @@ Friend Finder is deployed to Heroku.
 Click <a href="https://friendfinder-yvette-v1.herokuapp.com/">here</a> for the demo.
 <BR><BR>
 <img src="/app/screen1.png" width="850">
+  1. Click the button to start the survey.
+  
 <img src="/app/screen2.png" width="850">
+  2. Complete the survey.
+  
 <img src="/app/screen3.png" width="850">
+  3. Get the results.
