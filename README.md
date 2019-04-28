@@ -12,6 +12,6 @@ The application is implemented using a Node.js and Express server on the back en
 Friend Finder is deployed to Heroku. 
 Click <a href="https://friendfinder-yvette-v1.herokuapp.com/">here</a> for the demo.
 <BR><BR>
-<img src="/screen1.png" width="850">
-<img src="/screen2.png" width="850">
-<img src="/screen3.png" width="850">
+<img src="/app/screen1.png" width="850">
+<img src="/app/screen2.png" width="850">
+<img src="/app/screen3.png" width="850">
