@@ -12,11 +12,12 @@ The application is implemented using a Node.js and Express server on the back en
 Friend Finder is deployed to Heroku. 
 Click <a href="https://friendfinder-yvette-v1.herokuapp.com/">here</a> for the demo.
 <BR><BR>
+
+1. Click the button to start the survey.
 <img src="/app/screen1.png" width="850">
-  1. Click the button to start the survey.
-  
+
+2. Complete the survey.
 <img src="/app/screen2.png" width="850">
-  2. Complete the survey.
-  
+ 
+3. Get your results.
 <img src="/app/screen3.png" width="850">
-  3. Get the results.
